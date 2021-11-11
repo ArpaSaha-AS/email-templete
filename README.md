@@ -1,2 +1,2 @@
 # email-templete
-Great repository names are short and memorable. Need inspiration? How about improved-octo-winner? 
+ https://arpasaha-as.github.io/email-templete/
